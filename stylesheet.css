@@ -1,0 +1,33 @@
+body{
+	background-color:lightgrey;
+}
+.lightyellow{
+	background-color:#EAAB36;
+	width: 50%;
+	min-height: 30%;
+	display:inline-block;
+}
+.greenish{
+	background-color:#A07B1A;
+	width: 50%;
+	min-height: 30%;
+	display:inline-block;
+}
+.brown{
+	background-color:#5A3112;
+	width: 50%;
+	min-height: 30%;
+	display:inline-block;
+}
+.white{
+	background-color:#ffffff;
+	width: 50%;
+	min-height: 30%;
+	display:inline-block;
+}
+.black{
+	background-color:#000000;
+	width: 50%;
+	min-height: 30%;
+	display:inline-block;
+}
