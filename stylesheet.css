@@ -1,4 +1,6 @@
 body{
+	width:95%;
+	height:95%;
 	background-color:lightgrey;
 }
 .lightyellow{
@@ -6,28 +8,36 @@ body{
 	width: 50%;
 	min-height: 30%;
 	display:inline-block;
+	font-size:30px;
 }
 .greenish{
 	background-color:#A07B1A;
-	width: 50%;
+	width: 30%;
 	min-height: 30%;
 	display:inline-block;
+	font-size:30px;
 }
 .brown{
 	background-color:#5A3112;
-	width: 50%;
+	width: 18.8%;
 	min-height: 30%;
 	display:inline-block;
+	font-size:30px;
 }
 .white{
 	background-color:#ffffff;
 	width: 50%;
-	min-height: 30%;
+	height: 70%;
 	display:inline-block;
+	font-size:30px;
 }
 .black{
 	background-color:#000000;
-	width: 50%;
-	min-height: 30%;
+	width: 49%;
+	height: 70%;
 	display:inline-block;
+	font-size:30px;
+}
+p{
+	padding-top:80px;
 }
